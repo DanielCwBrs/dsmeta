@@ -7,6 +7,6 @@
 <h4>Backend:</h4>
 <h5>Java, JPA</h5> 
 <h4>Frontend:</h4>
-<h5>TypeScript/React, Vite</h5>
+<h5>TypeScript/React, HTML, CSS, Vite</h5>
 <h4>Demais integrações:</h4>
 <h5>Heroku, Twilio</h5>
